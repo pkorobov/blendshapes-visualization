@@ -7,3 +7,10 @@ Install the environment using
 
 The 3D model is taken from here:
 https://github.com/hinzka/52blendshapes-for-VRoid-face
+
+Backlink to the original article on medium:
+https://medium.com/studio-neiro-ai/mediapipe-blendshape-coefficients-visualization-e01e6295c087
+
+Click the preview to see video results:
+
+[![Watch the video](https://img.youtube.com/vi/YojdllUaxdA/maxresdefault.jpg)](https://www.youtube.com/watch?v=YojdllUaxdA)
